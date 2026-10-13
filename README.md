@@ -1,4 +1,3 @@
-# Profile
 <h1 align="center">Hi 👋, I'm Archana Sasalatti</h1>
 <h3 align="center">CSE Student 👩‍💻 | Exploring AI & Machine Learning | Python Developer</h3>
 
